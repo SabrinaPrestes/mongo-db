@@ -1,0 +1,199 @@
+[{
+  "_id": {
+    "$oid": "67b51e0e523f62c3451b294e"
+  },
+  "nome": "camiseta normal",
+  "categoria": "roupas",
+  "depositos": [
+    1,
+    3,
+    6,
+    4,
+    5
+  ],
+  "preco_venda": 60,
+  "preco_custo": 30,
+  "numeracao": [
+    "P",
+    "M",
+    "G",
+    "GG"
+  ],
+  "cor": "preta",
+  "estoque": 100,
+  "material": "algodão"
+},
+{
+  "_id": {
+    "$oid": "67b51e33523f62c3451b294f"
+  },
+  "nome": "camiseta regata",
+  "categoria": "roupas",
+  "depositos": [
+    1,
+    3,
+    5,
+    8
+  ],
+  "preco_venda": 90,
+  "preco_custo": 45,
+  "numeracao": [
+    "P",
+    "M",
+    "G",
+    "GG"
+  ],
+  "cor": "preta",
+  "estoque": 100,
+  "material": "algodão",
+  "marca": "Esportiva",
+  "avaliacao": 4.2
+},
+{
+  "_id": {
+    "$oid": "67b51e33523f62c3451b2950"
+  },
+  "nome": "camisa polo",
+  "categoria": "roupas",
+  "depositos": [
+    1,
+    3
+  ],
+  "preco_venda": 100,
+  "preco_custo": 60,
+  "numeracao": [
+    "P",
+    "M",
+    "G"
+  ],
+  "cor": "azul",
+  "estoque": 100,
+  "marca": "Clássica",
+  "colecao": "Verão 2024",
+  "material": "algodão"
+},
+{
+  "_id": {
+    "$oid": "67b51e33523f62c3451b2951"
+  },
+  "nome": "sapatenis arcanjo",
+  "categoria": "calçados",
+  "depositos": [
+    2,
+    4
+  ],
+  "preco_venda": 150,
+  "preco_custo": 100,
+  "numeracao": [
+    38,
+    39,
+    40,
+    41,
+    42
+  ],
+  "cor": "marrom",
+  "estoque": 100,
+  "tipo_couro": "Nobuck"
+},
+{
+  "_id": {
+    "$oid": "67b51e33523f62c3451b2952"
+  },
+  "nome": "tenis nike air",
+  "categoria": "calçados",
+  "depositos": [
+    5
+  ],
+  "preco_venda": 350,
+  "preco_custo": 200,
+  "numeracao": [
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44
+  ],
+  "cor": "branco",
+  "estoque": 100,
+  "tecnologia": "Air Max"
+},
+{
+  "_id": {
+    "$oid": "67b51e33523f62c3451b2953"
+  },
+  "nome": "bicicleta moutain bike",
+  "categoria": "bicicletas",
+  "preco_venda": 3500,
+  "preco_custo": 2000,
+  "cor": "verde",
+  "estoque": 100,
+  "marchas": 10,
+  "material": "aluminio",
+  "aro": 29
+},
+{
+  "_id": {
+    "$oid": "67b51e33523f62c3451b2954"
+  },
+  "nome": "raquete de tenis",
+  "categoria": "raquetes",
+  "preco_venda": 1200,
+  "preco_custo": 450,
+  "cor": "amarela",
+  "estoque": 100,
+  "material": "Fibra de carbono",
+  "peso": "300g"
+},
+{
+  "_id": {
+    "$oid": "67b51e33523f62c3451b2955"
+  },
+  "nome": "mesa de ping pong",
+  "categoria": "mesas",
+  "preco_venda": 2200,
+  "preco_custo": 1450,
+  "estoque": 200,
+  "dobravel": true
+},
+{
+  "_id": {
+    "$oid": "67b51e33523f62c3451b2956"
+  },
+  "nome": "camiseta machao",
+  "categoria": "roupas",
+  "depositos": [
+    1
+  ],
+  "preco_venda": 70,
+  "preco_custo": 40,
+  "numeracao": [
+    "P",
+    "M",
+    "G",
+    "GG"
+  ],
+  "cor": "vermelha",
+  "estoque": 150,
+  "estampa": "Caveira",
+  "material": "algodão"
+},
+{
+  "_id": {
+    "$oid": "67b51e33523f62c3451b2957"
+  },
+  "nome": "bermuda top",
+  "categoria": "roupas",
+  "preco_venda": 150,
+  "preco_custo": 100,
+  "numeracao": [
+    "P",
+    "M",
+    "G"
+  ],
+  "cor": "rosa",
+  "estoque": 100,
+  "bolsos": 4,
+  "material": "algodão"
+}]
